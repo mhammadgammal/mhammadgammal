@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
   <div aliign="center">
     <a href="https://skillicons.dev">
-    <img top="500" height="250" width="400" hspace="25" src="https://skillicons.dev/icons?i=dart,flutter,kotlin,java,gradle,sqlite,py,pkl,js,ts,nodejs,npm,c,cpp,cs&perline=6"/>
+    <img top="500" height="250" width="400" hspace="15" src="https://skillicons.dev/icons?i=dart,flutter,kotlin,java,gradle,sqlite,py,pkl,js,ts,nodejs,npm,c,cpp,cs&perline=6"/>
   </a>
   <a href="https://skillicons.dev">
     <img top="500" height="250" width="400" src="https://skillicons.dev/icons?i=git,github,postman,androidstudio,blender,figma,firebase,gitlab,idea,mongodb,pycharm,stackoverflow,visualstudio,vscode&perline=6"/>
