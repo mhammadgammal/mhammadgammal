@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently Working on a Mobile App (Flutter)
 - 🤝 I’m available for full-time, part-time, internship, and freelancing.
 - 🌱 I’m currently learning Flutter and Jetpack Compose
-- 📫 How to reach me **mhammadgamal17@gmail.com**
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1FccC8fz8wjGdhCWKMNXRfzsxJ3Le40D-/view?usp=drive_link" target="blank">Resume</a>
 
 <!-- <a href="https://www.linkedin.com/in/mohamed-gamal-a03116228/" target="_blank">
