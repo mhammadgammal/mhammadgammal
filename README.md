@@ -27,8 +27,6 @@ Here are some ideas to get you started:
   </a> -->
 <be> <br> <br> <br> <br> <br> <be> <br> <br>
 
-
-
 ##
   <!-- First Section -->
   
